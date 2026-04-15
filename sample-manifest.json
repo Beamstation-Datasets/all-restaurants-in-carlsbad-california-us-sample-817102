@@ -1,0 +1,12 @@
+{
+  "export_job_id": "975084c3-952f-454c-9b89-547da56a614b",
+  "id_short": 817102,
+  "published_at": "2026-04-15T07:23:34Z",
+  "repo_name": "all-restaurants-in-carlsbad-california-us-sample-817102",
+  "sample_asset_name": "beamstation_817102_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/817102/beamstation_817102_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 29,
+  "sample_sha256": "696936a3a1e14d55381c5036b68ddfad8ac09f8f6e7c600dc9614a21b5c9070a",
+  "sample_size_bytes": 122433,
+  "total_records": 232
+}
