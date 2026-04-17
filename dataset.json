@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Carlsbad, California with a population of over 114k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Carlsbad, California, US",
-  "export_job_id": "975084c3-952f-454c-9b89-547da56a614b",
+  "export_job_id": "76d88772-7e95-4a50-bfae-b1d82926baa7",
   "github_org": "Beamstation-Datasets",
   "id_short": 817102,
   "location_name": "Carlsbad",
   "location_type": "city",
   "repo_name": "all-restaurants-in-carlsbad-california-us-sample-817102",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/817102/beamstation_817102_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 12.5,
+  "sample_pct": 9.97,
   "sample_records": 29,
   "sample_sha256": "696936a3a1e14d55381c5036b68ddfad8ac09f8f6e7c600dc9614a21b5c9070a",
   "sample_size_bytes": 122433,
-  "total_records": 232,
-  "updated_at": "2026-03-31T12:55:45.109280+00:00"
+  "total_records": 291,
+  "updated_at": "2026-04-14T13:08:28.515203+00:00"
 }
